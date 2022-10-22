@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on to get my OSCP Certification.
 - 🌱 I’m currently learning about Active Directory attacks and mitigation.
 - 💬 Ask me about Ethical Hacking/ Penetration Testing/ Red Teaming/ Scripting
-- [Gitbook notes]@(https://topi.gitbook.io/t0pitheripper/) , [Medium]@(https://medium.com/@kashishtopi), [LinkedIn]@(https://www.linkedin.com/in/topi1/)
+- [Gitbook notes](https://topi.gitbook.io/t0pitheripper/) , [Medium](https://medium.com/@kashishtopi), [LinkedIn](https://www.linkedin.com/in/topi1/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashishtopi&theme=dracula)
 
