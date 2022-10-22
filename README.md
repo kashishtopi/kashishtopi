@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Active Directory attacks and mitigation.
 - 💬 Ask me about Ethical Hacking/ Penetration Testing/ Red Teaming/ Scripting
 
-![image](https://user-images.githubusercontent.com/46081558/197346721-ab8d580e-bceb-40a7-8b68-2908764cfab4.png)
+![image](https://user-images.githubusercontent.com/46081558/197346867-7983225d-f10b-4b63-af5d-c3b0a0db93f6.png)
 
 
 
