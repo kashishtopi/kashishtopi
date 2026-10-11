@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on to get my OSCP Certification.
-- 🌱 I’m currently learning about Active Directory attacks and mitigation.
-- 💬 Ask me about Ethical Hacking/ Penetration Testing/ Red Teaming/ Scripting.
-- [Gitbook notes](https://topi.gitbook.io/t0pitheripper/), [Medium](https://medium.com/@kashishtopi), [LinkedIn](https://www.linkedin.com/in/topi1/)
+- 🏴‍☠️ Certs: **OSCP** | **CRTO** | **BSCP** | **eJPT** | **CEHv11** | **Security+**
+- 🐛 CVE Contributor
+- 💬 Pentesting / Red Teaming / Exploit Dev
+- 📝 [Gitbook Notes](https://topi.gitbook.io/t0pitheripper/) · [Medium](https://medium.com/@kashishtopi) · [LinkedIn](https://www.linkedin.com/in/topi1/)
+
+---
+
+#### CVEs & Security Advisories
+
+| ID | Severity | Target |
+|---|---|---|
+| [CVE-2026-57894](https://nvd.nist.gov/vuln/detail/cve-2026-57894) | 
+| [CVE-2026-105314](https://nvd.nist.gov/vuln/detail/cve-2026-105314) | 
+| [CVE-2026-105319](https://www.cve.org/CVERecord?id=CVE-2026-105319) | 
+| [CVE-2026-107449](https://nvd.nist.gov/vuln/detail/cve-2026-107449) |
+| [CVE-2026-107450](https://nvd.nist.gov/vuln/detail/cve-2026-107450) |
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashishtopi&theme=dracula)
-
-![image](https://user-images.githubusercontent.com/46081558/197346867-7983225d-f10b-4b63-af5d-c3b0a0db93f6.png)
-
-
-
-<!--
-**kashishtopi/kashishtopi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
