@@ -15,5 +15,5 @@
 | [CVE-2026-105314](https://nvd.nist.gov/vuln/detail/cve-2026-105314) |
 | [CVE-2026-105319](https://www.cve.org/CVERecord?id=CVE-2026-105319) |
 | [CVE-2026-107449](https://nvd.nist.gov/vuln/detail/cve-2026-107449) |
-| [CVE-2026-107450](https://nvd.nist.gov/vuln/detail/cve-2026-107450) |
+| [CVE-2026-107450](https://nvd.nist.gov/vuln/detail/cve-2026-107450) M |
 
