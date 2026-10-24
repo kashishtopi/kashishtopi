@@ -3,7 +3,6 @@
 - 🏴‍☠️ **OSCP** | **CRTO** | **BSCP** | **eJPT** | **CEHv11** | **Security+**
 - 🐛 CVE Contributor
 - 💬 Pentesting / Red Teaming / Exploit Dev
-- 📝 [Gitbook Notes](https://topi.gitbook.io/t0pitheripper/) · [Medium](https://medium.com/@kashishtopi) · [LinkedIn](https://www.linkedin.com/in/topi1/)
 
 ---
 
