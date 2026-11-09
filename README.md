@@ -1,18 +1,4 @@
 ### Hi there 👋
 
 - 🏴‍☠️ **OSCP** | **CRTO** | **BSCP** | **eJPT** | **CEHv11** | **Security+**
-- 🐛 CVE Contributor
 - 💬 Pentesting / Red Teaming / Exploit Dev
-
----
-
-#### CVEs & Security Advisories
-
-| ID |
-|---|
-| [CVE-2026-57894](https://nvd.nist.gov/vuln/detail/cve-2026-57894) H |
-| [CVE-2026-105314](https://nvd.nist.gov/vuln/detail/cve-2026-105314) H |
-| [CVE-2026-105319](https://www.cve.org/CVERecord?id=CVE-2026-105319) |
-| [CVE-2026-107449](https://nvd.nist.gov/vuln/detail/cve-2026-107449) L |
-| [CVE-2026-107450](https://nvd.nist.gov/vuln/detail/cve-2026-107450) M |
-
